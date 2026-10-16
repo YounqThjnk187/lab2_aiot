@@ -1,0 +1,7 @@
+Metric,Kaggle (Tesla T4 GPU),Local (CPU)
+Platform,CUDA,CPU
+Avg Epoch Time (s),4.20,17.53
+Throughput (samples/s),1451.17,347.95
+Inference Latency (ms/sample),0.54,0.85
+Validation Accuracy (%),54.19,55.83
+Validation Macro-F1 (%),19.94,20.49

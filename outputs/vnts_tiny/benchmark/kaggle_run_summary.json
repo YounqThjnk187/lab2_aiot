@@ -1,0 +1,7 @@
+{
+    "platform": "Kaggle CPU",
+    "total_params": 27188,
+    "total_training_time_sec": 58.75475192070007,
+    "best_val_accuracy": 68.2175622542595,
+    "final_val_f1": 40.82439222895926
+}

@@ -17,12 +17,12 @@ Lab02_<StudentID>/
 │
 ├── source/                   # Thư mục chứa các script Python (nếu chạy dạng module)
 │
-├── models/                   # Lưu trữ trọng số và thông tin mô hình đã huấn luyện
+├── outputs/vnts_tiny/models/                   # Lưu trữ trọng số và thông tin mô hình đã huấn luyện
 │   ├── best_state_dict.pth   # State dictionary của mô hình tốt nhất
 │   ├── best_checkpoint.pth   # Checkpoint đầy đủ (gồm optimizer, epoch,...)
 │   └── model_info.json       # Metadata cấu hình kiến trúc mô hình
 │
-├── figures/                  # Các biểu đồ kết quả trực quan hóa
+├── outputs/vnts_tiny/figures/                  # Các biểu đồ kết quả trực quan hóa
 │   ├── training_history.png      # Biểu đồ Loss & Accuracy qua các epoch
 │   ├── training_history_f1.png   # Biểu đồ Macro-F1 qua các epoch
 │   ├── confusion_matrix.png      # Ma trận nhầm lẫn (Confusion Matrix)

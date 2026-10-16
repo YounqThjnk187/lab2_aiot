@@ -1,0 +1,10 @@
+{
+    "platform": "CPU",
+    "avg_epoch_time_seconds": 17.53,
+    "throughput_samples_per_sec": 347.95,
+    "inference_latency_ms": 0.85,
+    "validation_accuracy_percent": 55.83,
+    "validation_macro_f1_percent": 20.49,
+    "epochs": 3,
+    "batch_size": 64
+}
